@@ -1,9 +1,9 @@
-# 3d-knob-design
+# 3d knob design
 how to design 3d knob
 
 Vous trouverez ici :
 
-La capture d'acran de Freecad
+La capture d'écran de Freecad
 
 ![Modular+ Knob](https://github.com/dubhalley/3d-knob-design/assets/5200123/ed52e6e1-5bc4-48bb-a460-40b4ff8dc638)
 
