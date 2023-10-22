@@ -1,6 +1,12 @@
 # 3d Knob Design
 how to design 3d knob
 
+*FREECAD
+Freecad is a free software package for 3D drawing.
+https://www.freecad.org/
+It allowed me to draw a model that you can modify the inner diameter, the shape and the outer diameter.
+You will find it in the 3D files folder.
+
 Vous trouverez ici :
 
 La capture d'écran de Freecad
