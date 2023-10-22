@@ -15,7 +15,7 @@ Here the file Knurled MASTER, just print.
 
 ![20190507_212909](https://github.com/dubhalley/3d-knob-design/assets/5200123/810c4da8-4ab1-4082-bf78-2f62964086f6)
 
-Here the step by step knob drawing 
+**Here the step by step knob drawing**
 
 1 - Global shape
 
