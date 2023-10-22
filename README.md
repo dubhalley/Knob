@@ -17,9 +17,15 @@ Here the file Knurled MASTER, just print.
 Here the step by step knob drawing 
 
 1 - Global shape
+
 2 - Revolution
+
 3 - Hole for nut cover
+
 4 - Hole for the potentiometer axis
+
 5 - Cut the shape for design
+
 6 - Add a mark to read the position
+
 
