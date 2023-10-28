@@ -1,6 +1,6 @@
 # 3d Knob Design
 
-## Software
+## Design
 
 Freecad is a free software for 3D drawing : https://www.freecad.org/
 
