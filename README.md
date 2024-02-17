@@ -20,6 +20,12 @@ For example in a fablab near to you. Here the file Knurled MASTER, just print wi
 
 ![20190507_212909](https://github.com/dubhalley/3d-knob-design/assets/5200123/810c4da8-4ab1-4082-bf78-2f62964086f6)
 
+## Screw
+
+To install the knob on your potentiometer you need a screw :
+I choose this one : https://www.bricovis.fr/produit-vis-sans-tete-hexagonale-creuse-bout-cuvette-acier-14-9-zingue-blanc-din-916-sthccuvzn/#STHCCUV03/004ZN
+It's : M3X4 with hexa inside
+
 ## Here the step by step knob drawing
 (Need screenshots of freecad)
 
