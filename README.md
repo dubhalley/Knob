@@ -33,6 +33,8 @@ It's : M3X4 with hexa inside
 
 1 - Global shape
 
+How to design 3d/01.png
+
 2 - Revolution
 
 3 - Hole for nut cover
