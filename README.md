@@ -29,25 +29,85 @@ I choose this one : https://www.bricovis.fr/produit-vis-sans-tete-hexagonale-cre
 It's : M3X4 with hexa inside
 
 ## Here the step by step knob drawing
-(Need screenshots of freecad)
+
 
 1 - Global shape
+
+To begin, we need to draw and dimension the overall shape of the knob.
 
 <img src='How to design 3d/01.png' width='200px'/>
 
 
-
-
 2 - Revolution
+
+The next step is a revolution around the y-axis
+
+<img src='How to design 3d/02.png' width='200px'/>
+
+<img src='How to design 3d/03.png' width='200px'/>
+
 
 3 - Hole for nut cover
 
+Create a cavity to hide the clamping nut
+
+<img src='How to design 3d/04.png' width='200px'/>
+
+<img src='How to design 3d/05.png' width='200px'/>
+
+
 4 - Hole for the potentiometer axis
 
-5 - Hole for the screw which block the knob on the potentiometer axis.
+A second cavity must be created to accommodate the potentiometer stem.
 
-6 - Cut the shape for design
+<img src='How to design 3d/06.png' width='200px'/>
 
-7 - Add a mark to read the position
+<img src='How to design 3d/07.png' width='200px'/>
+
+
+5 - Knob grip
+
+Create a groove to make the knob easier to grip
+
+<img src='How to design 3d/08.png' width='200px'/>
+
+<img src='How to design 3d/09.png' width='200px'/>
+
+
+6 - circular repetition
+
+circular repetition of the groove pattern around the knob
+
+<img src='How to design 3d/10.png' width='200px'/>
+
+
+7 - Hole for the screw
+
+Creating a hole for a screw to tighten the knob on the potentiometer stem
+
+<img src='How to design 3d/11.png' width='200px'/>
+
+<img src='How to design 3d/12.png' width='200px'/>
+
+
+8 - Fillet
+
+Make a fillet on the edge to soften the corners
+
+<img src='How to design 3d/13.png' width='200px'/>
+
+
+9 - Add a mark to read the position
+
+<img src='How to design 3d/14.png' width='200px'/>
+
+<img src='How to design 3d/15.png' width='200px'/>
+
+
+10 - Make a fillet to make the knob stronger on the inside
+
+<img src='How to design 3d/16.png' width='200px'/>
+
+<img src='How to design 3d/17.png' width='200px'/>
 
 
