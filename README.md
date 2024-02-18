@@ -33,7 +33,10 @@ It's : M3X4 with hexa inside
 
 1 - Global shape
 
-How to design 3d/01.png
+<img src='How to design 3d/01.png' width='200px'/>
+
+
+
 
 2 - Revolution
 
