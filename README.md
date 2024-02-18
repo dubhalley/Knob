@@ -16,7 +16,7 @@ Here a screen shot of freecad, with the final result
 
 To obtain the knob in real life, you need to find a 3d printer.
 
-For example in a fablab near to you. Here the file Knurled MASTER, just print with a emotion tech micro delta.
+For example in a fablab near to you.
 
 <img src='Pictures/20240218_144140.jpg' width='200px'/>
 
