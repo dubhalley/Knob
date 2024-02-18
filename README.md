@@ -18,7 +18,7 @@ To obtain the knob in real life, you need to find a 3d printer.
 
 For example in a fablab near to you. Here the file Knurled MASTER, just print with a emotion tech micro delta.
 
-![20190507_212909](https://github.com/dubhalley/3d-knob-design/assets/5200123/810c4da8-4ab1-4082-bf78-2f62964086f6)
+<img src='Pictures/20240218_144140.jpg' width='200px'/>
 
 ## Screw
 
