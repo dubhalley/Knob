@@ -9,7 +9,7 @@ You will find them in the 3D files folder.
 
 Here a screen shot of freecad, with the final result
 
-![Modular+ Knob](https://github.com/dubhalley/3d-knob-design/assets/5200123/ed52e6e1-5bc4-48bb-a460-40b4ff8dc638)
+<img src='Pictures/Modular+ Knob.png' width='200px'/>
 
 
 ## Production
