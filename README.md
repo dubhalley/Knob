@@ -109,5 +109,3 @@ Make a fillet on the edge to soften the corners
 <img src='How to design 3d/16.png' width='200px'/>
 
 <img src='How to design 3d/17.png' width='200px'/>
-
-TEST
